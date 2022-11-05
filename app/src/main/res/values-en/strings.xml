@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!--  BluetoothChat -->
+    <string name="send">Send</string>
+    <string name="not_connected">You are not connected to a device</string>
+    <string name="bt_not_enabled_leaving">Bluetooth was not enabled. Leaving Bluetooth Chat.</string>
+    <string name="title_connecting">connecting...</string>
+    <string name="title_connected_to">connected to <xliff:g id="device_name">%1$s</xliff:g></string>
+    <string name="title_not_connected">not connected</string>
+
+    <!--  DeviceListActivity -->
+    <string name="scanning">scanning for devices...</string>
+    <string name="select_device">select a device to connect</string>
+    <string name="none_paired">No devices have been paired</string>
+    <string name="none_found">No devices found</string>
+    <string name="title_paired_devices">Paired Devices</string>
+    <string name="title_other_devices">Other Available Devices</string>
+    <string name="button_scan">Scan for devices</string>
+    <string name="bluetooth_state">No device connected.</string>
+
+    <!-- Options Menu -->
+    <string name="gameover">Wrong or bumped!</string>
+    <string name="gamewin">Completed all the words!</string>
+    <string name="exit">Exit</string>
+    <string name="continue1">Continue</string>
+    <string name="inclination">Inclination</string>
+    <string name="drag">Drag</string>
+    <string name="nick">Please enter a nickname.</string>
+    <string name="bluetooth_on">Bluetooth ON</string>
+    <string name="bluetooth_off">Bluetooth OFF</string>
+    <string name="secure_connect">Connect a device - Secure</string>
+    <string name="insecure_connect">Connect a device - Insecure</string>
+    <string name="discoverable">Make discoverable</string>
+    <string name="app_name">The King Of Snakes</string>
+    <string name="start">Game Start</string>
+    <string name="activity_game_over_title">Game Over</string>
+    <string name="activity_game_wins_title">Game Win</string>
+    <string name="bottom_text1">Together</string>
+    <string name="bottom_text2">Alone</string>
+    <string name="bottom_text3">Configuration</string>
+    <string name="together_tap">Play against other players!</string>
+    <string name="alone_tap">Choose how to proceed!</string>
+    <string name="game_style1">Scenario</string>
+    <string name="game_style2">Random</string>
+    <string name="login" translatable="false">login</string>
+    <string name="login_id" translatable="false">Please enter the ID to use in the game!</string>
+    <string name="connect" translatable="false">connect</string>
+    <string name="initialize" translatable="false">Initialize the scenario</string>
+    <string name="button_text4">Skin Select</string>
+    <string name="profile_tap">Create your own profile!</string>
+    <string name="profile_picture">My profile picture</string>
+    <string name="score">Score</string>
+    <string name="name">Nickname</string>
+    <string name="share">Share</string>
+    <string name="config">Settings</string>
+    <string name="config_name">Make your own settings!</string>
+    <string name="backgroud_music">Music</string>
+    <string name="sound_effects">Sound Effects</string>
+    <string name="vibrator">Vibrator</string>
+    <string name="manual">Manual</string>
+    <string name="language">Language</string>
+    <string name="crew">Credits</string>
+    <string name="view">View</string>
+    <string name="game_start">Play</string>
+    <string name="version">Version:1.0.0</string>
+    <string name="confirm">Confirm</string>
+</resources>

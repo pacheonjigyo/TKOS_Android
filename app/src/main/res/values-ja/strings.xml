@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!--  BluetoothChat -->
+    <string name="send">送る</string>
+    <string name="not_connected">You are not connected to a device</string>
+    <string name="bt_not_enabled_leaving">Bluetooth was not enabled. Leaving Bluetooth Chat.</string>
+    <string name="title_connecting">connecting...</string>
+    <string name="title_connected_to">connected to <xliff:g id="device_name">%1$s</xliff:g></string>
+    <string name="title_not_connected">not connected</string>
+
+    <!--  DeviceListActivity -->
+    <string name="inclination">傾斜</string>
+    <string name="drag">ドラッグ</string>
+    <string name="bluetooth_on">ブルートゥース ON</string>
+    <string name="bluetooth_off">ブルートゥース OFF</string>
+    <string name="scanning">scanning for devices...</string>
+    <string name="select_device">select a device to connect</string>
+    <string name="none_paired">No devices have been paired</string>
+    <string name="none_found">No devices found</string>
+    <string name="title_paired_devices">Paired Devices</string>
+    <string name="title_other_devices">Other Available Devices</string>
+    <string name="button_scan">Scan for devices</string>
+    <string name="bluetooth_state">デバイスが接続されていません.</string>
+    <!-- Options Menu -->
+    <string name="gameover">間違っていたり、ストーブ!</string>
+    <string name="gamewin">単語を完成しました!</string>
+    <string name="exit">終了</string>
+    <string name="continue1">続行する</string>
+    <string name="nick">ニックネームを入力してください。</string>
+    <string name="secure_connect">Connect a device - Secure</string>
+    <string name="insecure_connect">Connect a device - Insecure</string>
+    <string name="discoverable">Make discoverable</string>
+    <string name="app_name" translatable="false">The King Of Snakes</string>
+    <string name="start" translatable="false">ゲーム開始</string>
+    <string name="activity_game_over_title">ゲームオーバー</string>
+    <string name="activity_game_wins_title">ゲーム勝利</string>
+    <string name="bottom_text1" translatable="false">のようにする</string>
+    <string name="bottom_text2" translatable="false">一人でする</string>
+    <string name="bottom_text3" translatable="false">設定</string>
+    <string name="together_tap" translatable="false">他のプレイヤーと一緒に対決を広げてみてください!</string>
+    <string name="alone_tap" translatable="false">進行方式を選択してください!</string>
+    <string name="game_style1">シナリオ</string>
+    <string name="game_style2">ランダム</string>
+    <string name="button_text4">スキンセレクト</string>
+    <string name="login" translatable="false">ログイン</string>
+    <string name="login_id" translatable="false">ゲームで使用するIDを入力してください！</string>
+    <string name="connect" translatable="false">接続</string>
+    <string name="initialize" translatable="false">シナリオが初期化されました。</string>
+    <string name="profile_tap" translatable="false">自分のプロフィールを作成してください!</string>
+    <string name="profile_picture" translatable="false">私のプロフィール写真</string>
+    <string name="score" translatable="false">スコア</string>
+    <string name="name" translatable="false">ニックネーム</string>
+    <string name="share" translatable="false">共有</string>
+    <string name="config" translatable="false">環境設定</string>
+    <string name="config_name" translatable="false">必要な設定をみてください!</string>
+    <string name="backgroud_music" translatable="false">音楽</string>
+    <string name="sound_effects" translatable="false">効果音</string>
+    <string name="vibrator">バイブレーター</string>
+    <string name="manual">マニュアル</string>
+    <string name="language" translatable="false">言語</string>
+    <string name="crew" translatable="false">製作陣</string>
+    <string name="view" translatable="false">表示</string>
+    <string name="game_start" translatable="false">開始</string>
+    <string name="version" translatable="false">バージョン:1.0.0</string>
+    <string name="confirm">確認</string>
+</resources>

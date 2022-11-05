@@ -1,0 +1,65 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!--  BluetoothChat -->
+    <string name="send">전송</string>
+    <string name="not_connected">You are not connected to a device</string>
+    <string name="bt_not_enabled_leaving">Bluetooth was not enabled. Leaving Bluetooth Chat.</string>
+    <string name="title_connecting">connecting...</string>
+    <string name="title_connected_to">connected to <xliff:g id="device_name">%1$s</xliff:g></string>
+    <string name="title_not_connected">not connected</string>
+
+    <!--  DeviceListActivity -->
+    <string name="scanning">scanning for devices...</string>
+    <string name="select_device">select a device to connect</string>
+    <string name="none_paired">No devices have been paired</string>
+    <string name="none_found">No devices found</string>
+    <string name="title_paired_devices">Paired Devices</string>
+    <string name="title_other_devices">Other Available Devices</string>
+    <string name="button_scan">Scan for devices</string>
+    <string name="bluetooth_state">연결된 기기가 없습니다.</string>
+    <!-- Options Menu -->
+    <string name="gameover">틀렸거나 부딪혔습니다</string>
+    <string name="gamewin">단어를 모두 완성했습니다!</string>
+    <string name="exit">나가기</string>
+    <string name="continue1">계속하기</string>
+    <string name="inclination">기울기</string>
+    <string name="drag">드래그</string>
+    <string name="nick">닉네임을 입력하세요.</string>
+    <string name="bluetooth_on">블루투스 ON</string>
+    <string name="bluetooth_off">블루투스 OFF</string>
+    <string name="secure_connect">Connect a device - Secure</string>
+    <string name="insecure_connect">Connect a device - Insecure</string>
+    <string name="discoverable">Make discoverable</string>
+    <string name="app_name">The King Of Snakes</string>
+    <string name="start">게임 시작</string>
+    <string name="activity_game_over_title">Game Over</string>
+    <string name="activity_game_wins_title">Game Win</string>
+    <string name="bottom_text1">같이하기</string>
+    <string name="bottom_text2">혼자하기</string>
+    <string name="bottom_text3">설정</string>
+    <string name="together_tap">다른 플레이어와 함께 대결을 펼쳐보세요!</string>
+    <string name="alone_tap">진행 방식을 선택하세요!</string>
+    <string name="game_style1">시나리오</string>
+    <string name="game_style2">무작위</string>
+    <string name="button_text4">스킨 변경하기</string>
+    <string name="login">로그인</string>
+    <string name="login_id">게임에서 사용할 ID를 입력해주세요!</string>
+    <string name="connect">접속</string>
+    <string name="initialize">시나리오 초기화 하기</string>
+    <string name="profile_tap">나만의 프로필을 만들어보세요!</string>
+    <string name="profile_picture">내 프로필 사진</string>
+    <string name="score">점수</string>
+    <string name="name">닉네임</string>
+    <string name="share">공유</string>
+    <string name="config">환경설정</string>
+    <string name="config_name">원하는 설정을 해보세요!</string>
+    <string name="backgroud_music">음악</string>
+    <string name="sound_effects">효과음</string>
+    <string name="vibrator">진동</string>
+    <string name="manual">조작법</string>
+    <string name="language">언어</string>
+    <string name="crew">제작진</string>
+    <string name="view">보기</string>
+    <string name="game_start">시작</string>
+    <string name="version">버전:1.0.0</string>
+    <string name="confirm">확인</string>
+</resources>
